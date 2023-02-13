@@ -4,3 +4,4 @@ Questions
 1. What is Content Creation in your own words?
 2. What is the process for content creation?
 3. As an expert in content creation, come up with content for a website blog post titled “The Future of Artificial Intelligence”
+Artificial intelligence or AI is the intelligence of machines and the branch of computer science that aims to create it. AI textbooks define the field as "the study and design of intelligent agents" where an intelligent agent is a system that perceives its environment and takes actions that maximize its chance of success. John McCarthy, who coined the term in 1956, defines it as "the science and engineering of making intelligent machines". Artificial intelligence (AI) has emerged as a buzzword in education, and for good reason. 
